@@ -44,11 +44,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1651918360,
-        "narHash": "sha256-JI4E8Zc6nNyYyke+jCwqjwHXX204gJ6SjX58/Wlgdtk=",
+        "lastModified": 1652391501,
+        "narHash": "sha256-lCiqhi2mlvxlVrMuGTkeSxLmxmBjzJ7jaHT5r7cAfFs=",
         "owner": "nim-nix-pkgs",
         "repo": "remotery",
-        "rev": "98a97c29551b945ff0218808af7adfcb2452ce12",
+        "rev": "bbb384c82242e0d1fa5a7967acf99914c608814b",
         "type": "github"
       },
       "original": {
